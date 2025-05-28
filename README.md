@@ -32,8 +32,8 @@ A mobile To-Do List application for academic purposes, designed to help users ma
 /MobileProject_TODO
 ├── /app
 │   ├── /src/main
-│   │   ├── /java (or /kotlin)  # Activity/ViewModel classes
-│   │   ├── /res                # Layouts, strings, themes
+│   │   ├── /java  # Activity/ViewModel classes
+│   │   ├── /res   # Layouts, strings, themes
 │   │   └── /assets
 │   └── /build.gradle
 ├── /gradle
