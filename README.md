@@ -43,5 +43,5 @@ A mobile To-Do List application for academic purposes, designed to help users ma
 ## Contact
 Thaw Myo Han  
 - Email: thawmyohan736@gmail.com
-- LinkedIn: linkedin.com/in/han2873292a7/ 
+- LinkedIn: (https://linkedin.com/in/han2873292a7/)
 - GitHub: (https://github.com/T-M-Han)
