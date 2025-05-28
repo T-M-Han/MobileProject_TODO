@@ -16,7 +16,7 @@ A mobile To-Do List application for academic purposes, designed to help users ma
 ## Installation
 1. Clone repo:  
    ```bash  
-   git clone https://github.com/your-username/MobileProject_TODO.git  
+   git clone https://github.com/T-M-Han/MobileProject_TODO.git  
 2. Open in Android Studio
 3. Sync Gradle
 4. Run on emulator/device
